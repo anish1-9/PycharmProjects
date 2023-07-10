@@ -1,0 +1,52 @@
+566 mathematics
+y –1 0 4 5 6
+d
+1 2 3 1 1
+p(y)
+8 8 8 8 8 e
+1 2 3 2 22
+clearly e(x) = 1× +2× +3× +4× = =2.75 h
+8 8 8 8 8
+1 2 3 1 1 22 s
+and e(y) = −1× +0× +4× +5× = 6× = =2.75
+8 8 8 8 8 8
+i
+the variables x and y are different, however their means are slame. it is also
+easily observable from the diagramatic representation of these distribbutions (fig 13.5).
+p(x) p(y)
+u
+p
+3 3
+8 t 8
+2 2 e
+8 8
+r
+1 1
+8 r8
+o 1 e 2 3 4 –1 o 1 2 3 4 5 6
+e
+(i) (ii)
+fig 13.5
+c
+b
+to distinguish x from y, we require a measure of the extent to which the values of
+the random variables spread out. in statistics, we have studied that the variance is a
+n
+measure of the spread or scatter in data. likewise, the variability or spread in the
+o
+values of a random variable may be measured by variance.
+definition 7 let x be a random variable whose possible values x , x ,...,x occur with
+t
+1 2 n
+© probabilities p(x ), p(x ),..., p(x ) respectively.
+1 2 n
+lt et μ = e (x) be the mean of x. the variance of x, denoted by var (x) or 2 is
+x
+o
+defined as
+n n
+σ2 = var(x)=∑(x −μ)2 p(x )
+x i i
+i=1
+or equivalently 2 =e(x – μ)2
+x

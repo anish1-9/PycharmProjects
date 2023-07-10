@@ -1,0 +1,2 @@
+Question: what is rpobability
+AI Response: Probability is a measure of the likelihood or chance of an event occurring. It is expressed as a number between 0 and 1, with 0 indicating that the event is impossible and 1 indicating that the event is certain to occur. The higher the probability, the more likely the event is to occur.

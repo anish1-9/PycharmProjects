@@ -1,0 +1,22 @@
+where σ is the standard deviation of x.
+
+In simpler terms, variance is a measure of how much the data points of a random variable deviate from its expected value (mean). A high variance indicates that the data points are widely spread out from the mean, while a low variance indicates that the data points are tightly clustered around the mean.
+
+In the given example, the means of x and y are both 2.75, indicating that they have the same expected value. However, we can calculate their variances to see which variable has a greater spread.
+
+For x:
+μ = e(x) = 2.75
+σ^2 = ∑(x-μ)^2 p(x)
+       = (1-2.75)^2(3/8) + (2-2.75)^2(2/8) + (3-2.75)^2(3/8)
+       = 0.6875
+Therefore, the variance of x is 0.6875.
+
+For y:
+μ = e(y) = 2.75
+σ^2 = ∑(y-μ)^2 p(y)
+       = (-1-2.75)^2(1/8) + (0-2.75)^2(2/8) + (4-2.75)^2(3/8) +
+             (5-2.75)^2(1/8) + (6-2.75)^2(1/8)
+       = 3.625
+Therefore, the variance of y is 3.625.
+
+Comparing the two variances, we see that y has a much higher variance than x, indicating that its data points are more widely spread out from the mean. Therefore, y has a greater variability or spread compared to x.

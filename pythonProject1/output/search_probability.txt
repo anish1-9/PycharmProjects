@@ -1,0 +1,48 @@
+probability 531
+13
+chapter
+d
+probability e
+h
+s
+(cid:153)the theory of probabilities is simply the science of logic
+quantitatively treated. – c.s. peirce (cid:153)
+i
+l
+13.1 introduction b
+in earlier classes, we have studied the probability as a
+measure of uncertainty of events in a random experiment. u
+we discussed the axiomatic approach formulated by
+russian mathematician, a.n. kolmogorov (1903-1987)
+p
+and treated probability as a ftunction of outcomes of the
+experiment. we have also established equivalence between
+the axiomatic theory and the classical theory of preobability
+r
+in case of equally likely outcomes. on the basis of this
+relationship, we obtained probabilities of events associated
+r
+with discrete sample spaces. we have also studied the
+addition rule oef probability. in this chap ter, we shall discuss
+the important concept of conditionael probability of an event
+given that another event has occurred, which will be helpful
+in undcerstanding the bayes' theorem, multiplication rule of
+b pierre de fermat
+probability and independence of events. we shall also learn (1601-1665)
+an important concept of random variable and its probability
+ndistribution and also the mean and variance of a probability distribution. in the last
+section of the chaopter, we shall study an important discrete probability distribution
+called binomial distribution. throughout this chapter, we shall take up the experiments
+having equally likely outcomes, unless stated otherwise.
+t
+© 13.2 co nditional probability
+uptillt now in probability, we have discussed the methods of finding the probability of
+events. if we have two events from the same sample space, does the information
+o
+about the occurrence of one of the events affect the probability of the other event? let
+us try to answer this question by taking up a random experiment in which the outcomes
+n
+are equally likely to occur.
+consider the experiment of tossing three fair coins. the sample space of the
+experiment is
+s = {hhh, hht, hth, thh, htt, tht, tth, ttt}

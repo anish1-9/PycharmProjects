@@ -1,0 +1,23 @@
+Let A be the event of getting two heads and B be the event of getting at least one head.
+The probability of A is given by: 
+P(A) = number of outcomes in A / total number of outcomes
+P(A) = 3 / 8
+The probability of B is given by: 
+P(B) = number of outcomes in B / total number of outcomes
+P(B) = 7 / 8
+
+Now, let's consider the event C, which is getting the outcome hht or thh (at least two heads). The probability of C is given by:
+P(C) = number of outcomes in C / total number of outcomes
+P(C) = 2 / 8
+If we know that event B has occurred, i.e., we have at least one head, then what is the probability of event C occurring? This is called the conditional probability of C given B, denoted by P(C|B).
+
+The conditional probability of C given B is given by the formula:
+P(C|B) = P(C and B) / P(B)
+
+The intersection of C and B, i.e., C and B occurring together, is the event {hht, thh}. Therefore, 
+P(C and B) = 2 / 8
+
+We already found the probability of B to be 7/8. Therefore, 
+P(C|B) = P(C and B) / P(B) = (2/8) / (7/8) = 2/7
+
+So, if we know that we have at least one head, then the probability of getting at least two heads is 2/7. This shows that the occurrence of event B does affect the probability of event C, and we need to take this into account when calculating probabilities of events in some situations.
